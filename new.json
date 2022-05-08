@@ -1,5 +1,18 @@
-{
-	"p1":"Alex",
-	"p2":"Ira",
-	"p3":"Liza"
-}
+[
+	{
+		"I'm": 
+		[
+			"lastname": "Dubrovskaya",
+			"firstname": "Irina",
+			"surname": "Leonidovna"
+		],
+		"age": 34,
+		"animal": 0,
+		"exspected salary": 
+		[
+			"trial_period": "350$",
+			"after_3_month": "500$",
+			"after_first_year": "1000$"
+		]
+	}
+]

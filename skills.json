@@ -1,0 +1,22 @@
+{
+	"skills": [
+		{
+		"tools": [
+		"VScode"
+		"Postman",
+		"Charles",
+		"Fiddler",
+		"Dev Tools",
+		"Jmeter",
+		"Android Studio",
+		"terminal (bush)"
+		],
+		"other": [
+			"SQL", 
+			"Redis",
+			"Python",
+			"ant other"
+			]
+		}
+	]
+}

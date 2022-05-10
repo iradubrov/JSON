@@ -1,0 +1,23 @@
+{
+  "ID": 1,
+  "Summary":"The application crashes if you enter the number 1 into an expression with more than 6 characters using the GUI",
+  "Description": [
+    {
+      "Description": "If  clicking on "1 " button 7 times or more, a system error appears and the application crashes",
+      "*Environment": "Win10",
+      "*Workaround": "Сan be pasted "1111111" from clipboard",
+      "Requirement ID": 11,
+      "Actual result": "System error",
+      "Expected result": ""1111111" is displayed in i/o field"
+    }
+  ],
+  "Steps to reproduce": [
+    "1. Download Calc.application.exe: https://www.dropbox.com/sh/wsps9gtgtc0dyvh/AAC8bUpyPkZ8rBIuitiKoE8aa?dl=0",
+    "2. Open calc",
+    "3. Click on next buttons: [1] [1] [1] [1] [1] [1] [1]"
+  ],
+  "Severity": "Critical",
+  "Priority": "High",
+  "Attachments": "Photo",
+  "Status": "Open"
+}

@@ -3,12 +3,12 @@
   "Summary":"The application crashes if you enter the number 1 into an expression with more than 6 characters using the GUI",
   "Description": [
     {
-      "Description": "If  clicking on "1 " button 7 times or more, a system error appears and the application crashes",
+      "Description": "If  clicking on '1' button 7 times or more, a system error appears and the application crashes",
       "*Environment": "Win10",
-      "*Workaround": "Сan be pasted "1111111" from clipboard",
+      "*Workaround": "Сan be pasted '1111111' from clipboard",
       "Requirement ID": 11,
       "Actual result": "System error",
-      "Expected result": ""1111111" is displayed in i/o field"
+      "Expected result": "'1111111' is displayed in i/o field"
     }
   ],
   "Steps to reproduce": [
